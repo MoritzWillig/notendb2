@@ -4,10 +4,10 @@
    * 
    * @package    NotenDB2
    * @subpackage Models
-   * @author     Moritz Willig <>
+   * @author     Moritz Willig <moritz.willig@gmail.com>
    **/
 	
-  class SessionModel {
+  class SessionModel extends DatabaseModel {
     
     /**
      * Initializes Session
